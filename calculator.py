@@ -1,5 +1,3 @@
-%%writefile calculator.py
-#เมื่อรันเสร็จจะมีไฟล์ calculator เกิดขึ้นมา
 import streamlit as st
 
 if 'num2_error' not in st.session_state:
